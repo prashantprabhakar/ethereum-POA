@@ -1,0 +1,82 @@
+Your new account is locked with a password. Please give a password. Do not forget this password.
+Fatal: Failed to read passphrase: liner: function not supported in this terminal
+Your new account is locked with a password. Please give a password. Do not forget this password.
+Fatal: Failed to read passphrase: liner: function not supported in this terminal
+Incorrect Usage: flag provided but not defined: -p
+
+new [command options] [arguments...]
+
+    geth account new
+
+Creates a new account and prints the address.
+
+The account is saved in encrypted format, you are prompted for a passphrase.
+
+You must remember this passphrase to unlock your account in the future.
+
+For non-interactive use the passphrase can be specified with the --password flag:
+
+Note, this is meant to be used for testing only, it is a bad idea to save your
+password to file or expose in any other way.
+
+
+ETHEREUM OPTIONS:
+  --datadir "/home/prashant/.ethereum"  Data directory for the databases and keystore
+  --keystore                            Directory for the keystore (default = inside the datadir)
+  --lightkdf                            Reduce key-derivation RAM & CPU usage at some expense of KDF strength
+
+ACCOUNT OPTIONS:
+  --password value  Password file to use for non-interactive password input
+
+Incorrect Usage: flag needs an argument: -password
+
+new [command options] [arguments...]
+
+    geth account new
+
+Creates a new account and prints the address.
+
+The account is saved in encrypted format, you are prompted for a passphrase.
+
+You must remember this passphrase to unlock your account in the future.
+
+For non-interactive use the passphrase can be specified with the --password flag:
+
+Note, this is meant to be used for testing only, it is a bad idea to save your
+password to file or expose in any other way.
+
+
+ETHEREUM OPTIONS:
+  --datadir "/home/prashant/.ethereum"  Data directory for the databases and keystore
+  --keystore                            Directory for the keystore (default = inside the datadir)
+  --lightkdf                            Reduce key-derivation RAM & CPU usage at some expense of KDF strength
+
+ACCOUNT OPTIONS:
+  --password value  Password file to use for non-interactive password input
+
+Incorrect Usage: flag needs an argument: -password
+
+new [command options] [arguments...]
+
+    geth account new
+
+Creates a new account and prints the address.
+
+The account is saved in encrypted format, you are prompted for a passphrase.
+
+You must remember this passphrase to unlock your account in the future.
+
+For non-interactive use the passphrase can be specified with the --password flag:
+
+Note, this is meant to be used for testing only, it is a bad idea to save your
+password to file or expose in any other way.
+
+
+ETHEREUM OPTIONS:
+  --datadir "/home/prashant/.ethereum"  Data directory for the databases and keystore
+  --keystore                            Directory for the keystore (default = inside the datadir)
+  --lightkdf                            Reduce key-derivation RAM & CPU usage at some expense of KDF strength
+
+ACCOUNT OPTIONS:
+  --password value  Password file to use for non-interactive password input
+
